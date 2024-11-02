@@ -1,0 +1,32 @@
+{
+  "Profile": "프로필",
+  "Account Settings": "계정 설정",
+  "Dark Mode": "다크 모드",
+  "Preferences": "설정",
+  "Preferred Language": "선호하는 언어",
+  "Notification Preferences": "알림 설정",
+  "Display Preferences": "화면 설정",
+  "Logout": "로그아웃",
+  "Feedback and Suggestions": "피드백 및 제안",
+  "Data Backup and Recovery": "데이터 백업 및 복구",
+  "Submit": "제출",
+  "Cancel": "취소",
+  "Yes": "예",
+  "No": "아니오",
+  "Are you sure you want to logout?": "로그아웃 하시겠습니까?",
+  "All": "모두",
+  "Only Important": "중요한 것만",
+  "None": "없음",
+  "Standard": "표준",
+  "Compact": "간략",
+  "Detailed": "자세히",
+  "Enter your feedback here": "여기에 피드백을 입력하세요",
+  "Patients List": "환자 목록",
+  "Patient Name": "환자 이름",
+  "Height": "신장",
+  "Weight": "체중",
+  "EMG Signals Chart": "EMG 신호 차트",
+  "Patient's detail": "환자 세부 정보"
+
+
+}
